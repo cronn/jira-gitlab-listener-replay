@@ -1,10 +1,12 @@
 Setup
 -----
 
+```
 # virtualenv -p python3 virtualenv
 # source virtualenv/bin/activate
 # pip install --upgrade pip
 # pip install -r requirements.txt
+```
 
 Usage
 -----
