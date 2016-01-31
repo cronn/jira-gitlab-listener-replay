@@ -1,0 +1,8 @@
+# vim: set ft=python :
+git_base_url = 'git.my.domain'
+
+jira_url = 'https://jira.my.domain/plugins/servlet/gitlab/listener?secret=the-secret&instance=default&replay=1'
+jira_basic_auth_username = 'basic-auth-user'
+jira_basic_auth_password = 'basic-auth-password'
+jira_username = 'user.name'
+jira_password = 'my-password'
