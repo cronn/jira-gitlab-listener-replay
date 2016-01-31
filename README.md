@@ -6,6 +6,8 @@ Setup
 # source virtualenv/bin/activate
 # pip install --upgrade pip
 # pip install -r requirements.txt
+# cp config.py.sample config.py
+# vi config.py
 ```
 
 Usage
