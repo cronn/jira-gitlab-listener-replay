@@ -18,8 +18,8 @@ Example:
 ```
 ./replay.py --dry-run \
             --repo-dir /path/to/git/checkout \
-			--repo-path='hpbx-cc/hpbx-cc-src' \
-			--start-commit=4812eb \
-			--end-commit=4812eb \
-			--project-id 4
+            --repo-path='path/to/repo' \
+            --start-commit=abcdef \
+            --end-commit=fedcba \
+            --project-id 42
 ```
